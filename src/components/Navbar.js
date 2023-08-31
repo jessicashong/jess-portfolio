@@ -60,7 +60,7 @@ const Navbar = () => {
         className={
           !nav
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center"
+            : "absolute top-0 left-0 w-full h-screen bg-[#e2f0f9] flex flex-col justify-center items-center"
         }
       >
         <li className="py-6 text-4xl">
@@ -93,9 +93,9 @@ const Navbar = () => {
       {/* social icons */}
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#fbc40e]">
             <a
-              className="flex justify-between items-center w-full text-gray-300"
+              className="flex justify-between items-center w-full text-gray-200"
               href="https://www.linkedin.com/in/jessicashong"
               target="_blank"
             >
@@ -104,16 +104,16 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
-              className="flex justify-between items-center w-full text-gray-300"
+              className="flex justify-between items-center w-full text-gray-200"
               href="https://github.com/jessicashong"
               target="_blank"
             >
               GitHub <FaGithub size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#67d3c7]">
             <a
-              className="flex justify-between items-center w-full text-gray-300"
+              className="flex justify-between items-center w-full text-gray-200"
               href="mailto:jessica.sunmee.hong@gmail.com"
               target="_blank"
             >
@@ -122,7 +122,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
-              className="flex justify-between items-center w-full text-gray-300"
+              className="flex justify-between items-center w-full text-gray-200"
               href="/"
             >
               Resume <BsFillPersonLinesFill size={30} />

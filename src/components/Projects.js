@@ -9,7 +9,7 @@ import Scheduler from '../assets/work-day-scheduler.png';
 
 const Projects = () => {
   return (
-    <div name='projects' className='w-full h-screen bg-[#e2f0f9] text-[#24305e] py-4'>
+    <div name='projects' className='w-full h-full bg-[#e2f0f9] text-[#24305e] pt-20'>
     
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
@@ -22,7 +22,7 @@ const Projects = () => {
 
             {/* grid item */}
             <div style={{ backgroundImage: `url(${Yougoal})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500'>
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -41,7 +41,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <div style={{ backgroundImage: `url(${Bexar})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500'>
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -60,27 +60,8 @@ const Projects = () => {
                     </div>
                 </div>
 
-                <div style={{ backgroundImage: `url(${Yougoal})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                    
-                    {/* hover effects */}
-                    <div className='opacity-0 group-hover:opacity-100'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
-                            MERN Stack Application
-                        </span>
-                        <div className='pt-8 text-center'>
-                            <a href='https://clj-yougoalgirl.herokuapp.com/' target='_blank'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                            </a>
-                            <a href='https://github.com/chloeeh/you-goal-girl' target='_blank'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
                 <div style={{ backgroundImage: `url(${Onlyflix})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500'>
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -100,7 +81,7 @@ const Projects = () => {
                 </div>
 
                 <div style={{ backgroundImage: `url(${Weather})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500'>
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -120,7 +101,7 @@ const Projects = () => {
                 </div>
 
                 <div style={{ backgroundImage: `url(${SocialNetworkAPI})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500'>
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -139,7 +120,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <div style={{ backgroundImage: `url(${Scheduler})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500'>
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>

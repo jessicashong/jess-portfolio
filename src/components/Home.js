@@ -15,7 +15,7 @@ const Home = () => {
             <p className='text-[#286fb4] py-4 max-w-[700px]'>I'm a full-stack developer specializing in building exceptional digital experiences. Currently, I am focused on building responsive full-stack web applications.</p>
 
             <div>
-                <button className='text-[#374785] group border-2 border-[#374785] px-6 py-3 my-2 flex items-center hover:bg-[#e2f0f9] hover:border-[#24305e] hover:text-[#24305e]'>
+                <button className='text-[#df4c73] group border-2 border-[#df4c73] px-6 py-3 my-2 flex items-center'>
                 <Link to="projects" smooth={true} duration={500}>
                 View Work
                 </Link>

@@ -131,7 +131,7 @@ const Navbar = () => {
               href='https://drive.google.com/file/d/1_QN7_2zcUwueNdBOzlnLzRshLGp2suo9/view?usp=sharing'
               target='_blank'
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>

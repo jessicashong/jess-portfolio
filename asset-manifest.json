@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jess-portfolio/static/css/main.28aeb94b.css",
-    "main.js": "/jess-portfolio/static/js/main.915f55c0.js",
+    "main.css": "/jess-portfolio/static/css/main.5158507e.css",
+    "main.js": "/jess-portfolio/static/js/main.e4f6aabd.js",
     "static/media/onlyflix.png": "/jess-portfolio/static/media/onlyflix.01e0caa19adcbba6eb75.png",
     "static/media/bexarmarket.jpg": "/jess-portfolio/static/media/bexarmarket.883c6725195b527ea42d.jpg",
     "static/media/yougoalgirl.png": "/jess-portfolio/static/media/yougoalgirl.19ec5e28bfd905cb976f.png",
@@ -9,18 +9,18 @@
     "static/media/whats-the-weather.png": "/jess-portfolio/static/media/whats-the-weather.63c3671ecc215b783084.png",
     "static/media/team-profile-generator.png": "/jess-portfolio/static/media/team-profile-generator.20c4723121d349c1bd87.png",
     "static/media/react.png": "/jess-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/logo1.png": "/jess-portfolio/static/media/logo1.44901a9c2494291242af.png",
     "static/media/mongo.png": "/jess-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/logo1.png": "/jess-portfolio/static/media/logo1.00a7301c97beb69cfc9f.png",
     "static/media/html.png": "/jess-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/jess-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/jess-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/jess-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/jess-portfolio/index.html",
-    "main.28aeb94b.css.map": "/jess-portfolio/static/css/main.28aeb94b.css.map",
-    "main.915f55c0.js.map": "/jess-portfolio/static/js/main.915f55c0.js.map"
+    "main.5158507e.css.map": "/jess-portfolio/static/css/main.5158507e.css.map",
+    "main.e4f6aabd.js.map": "/jess-portfolio/static/js/main.e4f6aabd.js.map"
   },
   "entrypoints": [
-    "static/css/main.28aeb94b.css",
-    "static/js/main.915f55c0.js"
+    "static/css/main.5158507e.css",
+    "static/js/main.e4f6aabd.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jess-portfolio/static/css/main.27f124d8.css",
-    "main.js": "/jess-portfolio/static/js/main.16a7cffb.js",
+    "main.js": "/jess-portfolio/static/js/main.9a26d696.js",
     "static/media/onlyflix.png": "/jess-portfolio/static/media/onlyflix.01e0caa19adcbba6eb75.png",
     "static/media/bexarmarket.jpg": "/jess-portfolio/static/media/bexarmarket.883c6725195b527ea42d.jpg",
     "static/media/yougoalgirl.png": "/jess-portfolio/static/media/yougoalgirl.19ec5e28bfd905cb976f.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/jess-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/jess-portfolio/index.html",
     "main.27f124d8.css.map": "/jess-portfolio/static/css/main.27f124d8.css.map",
-    "main.16a7cffb.js.map": "/jess-portfolio/static/js/main.16a7cffb.js.map"
+    "main.9a26d696.js.map": "/jess-portfolio/static/js/main.9a26d696.js.map"
   },
   "entrypoints": [
     "static/css/main.27f124d8.css",
-    "static/js/main.16a7cffb.js"
+    "static/js/main.9a26d696.js"
   ]
 }
